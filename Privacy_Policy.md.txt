@@ -1,0 +1,18 @@
+Privacy Policy
+Effective Date: 23/9/2024
+
+1. Information We Collect We may collect the following information:
+
+Usernames and IDs from Discord
+Messages sent to the Bot
+Any other information users voluntarily provide
+2. Use of Information We use the collected information to:
+
+Provide and improve the Bot's functionality
+Respond to user inquiries
+Ensure compliance with our Terms of Service
+3. Data Sharing We do not sell or share your personal information with third parties without your consent, except as required by law.
+
+4. Data Security We take reasonable measures to protect your information but cannot guarantee complete security.
+
+5. Changes to Privacy Policy We may update this Privacy Policy from time to time. We will notify you of any significant changes.

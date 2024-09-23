@@ -1,0 +1,12 @@
+Terms of Service (ToS)
+Effective Date: 23/9/2024
+
+1. Acceptance of Terms By using [Your Bot's Name] (the "Bot"), you agree to these Terms of Service. If you do not agree, please do not use the Bot.
+
+2. Use of the Bot You may use the Bot in accordance with Discord's Terms of Service. You agree not to use the Bot for any unlawful or harmful purposes.
+
+3. User Content You are responsible for any content you share using the Bot. We reserve the right to remove any content that violates these terms.
+
+4. Limitation of Liability The Bot is provided "as is" without warranties of any kind. We are not liable for any damages arising from the use of the Bot.
+
+5. Changes to Terms We may update these Terms of Service from time to time. Continued use of the Bot signifies your acceptance of the updated terms.
